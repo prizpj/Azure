@@ -1,0 +1,45 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "priyaadf123"
+		},
+		"AmazonS3_secretAccessKey": {
+			"value": ""
+		},
+		"AmazonS31_secretAccessKey": {
+			"value": ""
+		},
+		"AmazonS3Compatible1_secretAccessKey": {
+			"value": ""
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
+		"AzureTableStorage1_connectionString": {
+			"value": ""
+		},
+		"CosmosDbNoSql1_connectionString": {
+			"value": ""
+		},
+		"AzureBlobStorage2_connectionString": {
+			"value": ""
+		},
+		"AzureBlobStorage3_connectionString": {
+			"value": ""
+		},
+		"AzureSqlDatabase1_connectionString": {
+			"value": ""
+		},
+		"AmazonS3_properties_typeProperties_accessKeyId": {
+			"value": "0902"
+		},
+		"AmazonS31_properties_typeProperties_accessKeyId": {
+			"value": "0902"
+		},
+		"AmazonS3Compatible1_properties_typeProperties_accessKeyId": {
+			"value": "0902"
+		}
+	}
+}

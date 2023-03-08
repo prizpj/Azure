@@ -1,15 +1,11 @@
 {
 	"name": "cont1",
 	"properties": {
-		"linkedServiceName": {
-			"referenceName": "CosmosDbNoSql1",
-			"type": "LinkedServiceReference"
-		},
 		"annotations": [],
 		"type": "CosmosDbSqlApiCollection",
 		"schema": {},
 		"typeProperties": {
-			"collectionName": "cont1"
+			"collectionName": "con1"
 		}
 	}
 }
